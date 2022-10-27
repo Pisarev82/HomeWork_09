@@ -71,7 +71,7 @@ def calculator(update: Update, context: CallbackContext) -> None:
 
 
 def main():
-    updater = Updater("5794567195:AAHjYRkdUxbutcMe95nkfWDoT4zqYbHKvCM")
+    updater = Updater("Token")
 
     dispatcher = updater.dispatcher
 
