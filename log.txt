@@ -1,0 +1,5 @@
+2022-10-27 21:25:38,867 - apscheduler.scheduler - INFO - Scheduler started
+2022-10-27 21:25:52,188 - __main__ - INFO - Nikolay_Pisarev: 2*2 answer: 4.0
+2022-10-27 21:26:34,095 - __main__ - INFO - Nikolay_Pisarev: 4/0 answer: Делить на 0 нельзя
+2022-10-27 21:27:23,561 - telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+2022-10-27 21:27:23,562 - apscheduler.scheduler - INFO - Scheduler has been shut down
